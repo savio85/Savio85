@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Savio Junior 🖐️
 
-[![Portifolio](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://savio85.github.io/portifolio/)
+[![Blog](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://savio85.github.io/portifolio/)
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/savio-junior-b71975253)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/savio_junior.20/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
 
